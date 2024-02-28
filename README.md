@@ -2,6 +2,7 @@
 # Internet Service Price Prediction
 
 ## Blog Link : https://medium.com/@priyanka_60002/cis-5450-final-project-blog-22f1483fd424
+
 ## Authors
 - Purvansh Jain
 - Priyanka Agarwal
