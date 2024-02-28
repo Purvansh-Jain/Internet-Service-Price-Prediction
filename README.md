@@ -2,8 +2,8 @@
 # Internet Service Price Prediction
 
 ## Authors
-- Priyanka Agarwal
 - Purvansh Jain
+- Priyanka Agarwal
 - Yash Agrawal
 
 ## Project Overview
